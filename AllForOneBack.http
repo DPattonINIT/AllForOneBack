@@ -1,0 +1,6 @@
+@AllForOneBack_HostAddress = http://localhost:5191
+
+GET {{AllForOneBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
